@@ -55,7 +55,6 @@ public class ServicePoint {
 		point.setWhy(pointDto.getWhy());
 		point.setRadio(pointDto.getRadio());
 		point.setVerified(pointDto.isVerified());
-		//point.setWhy(pointDto.getWhy());
 		point.setRadio(pointDto.getRadio());
 		point.setVerified(pointDto.isVerified());
 
